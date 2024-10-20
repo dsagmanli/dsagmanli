@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-[![Website](https://img.shields.io/badge/Website-white?logo=googlechrome&logoColor=black))](https://dsagmanli.github.io/) 
+[![Website](https://img.shields.io/badge/Website-white?logo=googlechrome&logoColor=black)](https://dsagmanli.github.io/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/deniz-sagmanli-a0787610b/) 
 
 # 💻 Tech Stack:
