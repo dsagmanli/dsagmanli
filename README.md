@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Deniz.<br>🔭 I'm currently working on a Generative AI project that looks at a FAQ page and answers questions if the answer is there.<br>👯 I'm looking to collaborate on Generative AI and Deep Learning projects that are scalable to real-life user bases.<br>🌱 I'm currently learning Apache Kafka and Generative AI practices for large-scale user input.<br>⚡ Fun fact: It took me a week to learn both Python and Machine Learning.<br>
+👋 Hi, I'm Deniz.<br>🔭 I'm currently working on a Generative AI project that looks at a FAQ page and answers questions if the answer is there.<br>👯 I'm looking to collaborate on Generative AI and Deep Learning projects that are scalable to real-life user bases.<br>🌱 I'm currently learning Apache Kafka and Generative AI practices for large-scale user input.<br>⚡ Fun fact: It took me a week to learn both Python and Machine Learning.<br>📫 More info: <dsagmanli.github.io> <br>
 
 
 ## 🌐 Socials:
